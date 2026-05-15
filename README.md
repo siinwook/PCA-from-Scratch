@@ -1,1 +1,1 @@
-# Machine-Learning-from-scratch
+# PCA-from-scratch
