@@ -25,6 +25,8 @@ the right singular vectors V indicate the principal directions with maximum vari
 
 PCA finds orthogonal directions that capture the maximum variance of the data. By projecting data onto the top principal components, we can reduce dimensionality while preserving the most important structure.
 
+![comparison_original_reconstruction](./results/comparison_original_reconstruction.png)
+
 ## Tech Stack
 
 Numpy, Matplotlib
