@@ -47,7 +47,7 @@ Data labeled 1, 3, 4 were used for this analysis. (MNIST train dataset index: 59
 
 ![explained_var_ratio](./explained_var_ratio.png)
 
-### Oberavation:
+### Obseravation:
 - The more dimension, the more explainable variance.
 - Growth rate decreases as the dimension increases.
 
