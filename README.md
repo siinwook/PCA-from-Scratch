@@ -27,6 +27,9 @@ PCA finds orthogonal directions that capture the maximum variance of the data. B
 
 ![comparison_original_reconstruction](./results/comparison_original_reconstruction.jpg)
 
+Left: Original data
+Right: Reconstructed data
+
 ## Tech Stack
 
 Numpy, Matplotlib
