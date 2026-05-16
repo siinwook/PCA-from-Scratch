@@ -47,7 +47,12 @@ Data labeled 1, 3, 4 were used for this analysis. (MNIST train dataset index: 59
 
 ![explained_var_ratio](./explained_var_ratio.png)
 
+### Oberavation:
+- The more dimension, the more explainable variance.
+- Growth rate decreases as the dimension increases.
+
 ### Interpretation:
+- Prior principal directions explains more variance than post directions
 - Approximately 50% of variance can be explained even with only 1.2% of original dimension
 
 
