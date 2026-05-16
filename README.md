@@ -6,7 +6,7 @@ The goal is to understand PCA not as a black-box dimensionality reduction tool, 
 
 ## Key Idea
 
-Given a N x D centered data matrix A,
+Given a N x D centered data matrix X,
 
 X = UΣVᵀ
 
