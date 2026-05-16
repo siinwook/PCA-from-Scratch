@@ -1,1 +1,1 @@
-# PCA-from-scratch
+# PCA-from-Scratch
