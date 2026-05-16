@@ -4,6 +4,8 @@ This document summarizes the results of application PCA to MNIST.
 
 In this analysis, the data dimension is reduced from 784 to 10.
 
+Data labeled 1, 3, 4 were used for this analysis. (MNIST train dataset index: 59498, 10679, 35143)
+
 ## 1. Principal Components Visualization
 
 ![principal_components](./principal_components.png)
